@@ -1,0 +1,13 @@
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/mapper/AppointmentServiceMapperTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentControllerTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentsControllerTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentServiceControllerTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/BaseWebControllerTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/SpecialityControllerIT.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentControllerIT.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentServicesControllerTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/mapper/AppointmentMapperTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentServiceControllerIT.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentsControllerIT.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/BaseIntegrationTest.java
+/home/shale/Projects/eRegister/openmrs-module-appointments-92/omod/src/test/java/org/openmrs/module/appointments/web/controller/AppointmentServicesControllerIT.java
